@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ControlIgresosyGastos_Net_Core.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,8 @@ namespace ControlIgresosyGastos_Net_Core.Data
         {
 
         }
+
+        public DbSet<Categoria> Categorias { get; set; }
 
     }
 }
