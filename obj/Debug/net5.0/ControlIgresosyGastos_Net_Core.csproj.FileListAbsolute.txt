@@ -433,3 +433,8 @@ C:\Users\Victo\Desktop\Proyectos 2022\ControlDeIngresosYGastos\ControlIgresosyGa
 C:\Users\Victo\Desktop\Proyectos 2022\ControlDeIngresosYGastos\ControlIgresosyGastos_Net_Core\obj\Debug\net5.0\Razor\Views\Categorias\Details.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\ControlDeIngresosYGastos\ControlIgresosyGastos_Net_Core\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
 C:\Users\Victo\Desktop\Proyectos 2022\ControlDeIngresosYGastos\ControlIgresosyGastos_Net_Core\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\Victo\Desktop\Proyectos 2022\ControlDeIngresosYGastos\ControlIgresosyGastos_Net_Core\obj\Debug\net5.0\Razor\Views\IngresoGasto\Create.cshtml.g.cs
+C:\Users\Victo\Desktop\Proyectos 2022\ControlDeIngresosYGastos\ControlIgresosyGastos_Net_Core\obj\Debug\net5.0\Razor\Views\IngresoGasto\Delete.cshtml.g.cs
+C:\Users\Victo\Desktop\Proyectos 2022\ControlDeIngresosYGastos\ControlIgresosyGastos_Net_Core\obj\Debug\net5.0\Razor\Views\IngresoGasto\Details.cshtml.g.cs
+C:\Users\Victo\Desktop\Proyectos 2022\ControlDeIngresosYGastos\ControlIgresosyGastos_Net_Core\obj\Debug\net5.0\Razor\Views\IngresoGasto\Edit.cshtml.g.cs
+C:\Users\Victo\Desktop\Proyectos 2022\ControlDeIngresosYGastos\ControlIgresosyGastos_Net_Core\obj\Debug\net5.0\Razor\Views\IngresoGasto\Index.cshtml.g.cs

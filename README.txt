@@ -1,4 +1,4 @@
-﻿9-Modelo IngresoGasto
+﻿10-Controlador IngresoGasto
 
-Hemos creado un modelo nuevo y hemos hecho la migracion para que cree la tabla en la base de datos
+Creamoe el nuevo controlador y se agregan las vistas de cada metodo
 
