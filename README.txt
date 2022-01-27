@@ -1,5 +1,4 @@
-﻿7-Vista y Action Index
+﻿8-Vistas y su accion de create y Update
 
-Hemos modificado la vista donde se muestra el listado de categorias y le hemos dado estilos
-de boostrap para adecuarlas a nuestro gust.
+Hemos modificado las vistas de Create y Update con estilos de boostrap
 
