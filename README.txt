@@ -1,4 +1,5 @@
-﻿5-Agregar primera Migracion- Creacion de la base de datos
+﻿6-Crear Controlador de Categoria
 
-Hemos tenido que corregir ciertos errores porque daba problemas a generar la base de datos
+Hemos creado el controlador. Este controlador ha creado mediante scaffolding todas las vistas para
+todos los metodos que tenemos.
 
