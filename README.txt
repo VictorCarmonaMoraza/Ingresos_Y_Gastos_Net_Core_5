@@ -1,5 +1,5 @@
-﻿11-Agregar Estilos en Vistas Index-Create-Update
+﻿12-Filtrar la informacion por mes y año
 
 
-Agregamos estilos a las vistas
+Cambiamos el metodo get y hacemos cambios en las vistas
 

@@ -20,9 +20,22 @@ namespace ControlIgresosyGastos_Net_Core.Controllers
         }
 
         // GET: IngresoGasto
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int? mes,int? anio)
         {
-            var applicationDbContext = _context.IngresoGasto.Include(i => i.Categoria);
+            if (mes == null)
+            {
+                mes = DateTime.Now.Month;
+            }
+            if(anio == null)
+            {
+                anio = DateTime.Now.Year;
+            }
+
+            ViewData["mes"] = mes;
+            ViewData["anio"] = anio;
+
+            var applicationDbContext = _context.IngresoGasto.Include(i => i.Categoria)
+                .Where(x => x.Fecha.Month == mes && x.Fecha.Year == anio);
             return View(await applicationDbContext.ToListAsync());
         }
 
