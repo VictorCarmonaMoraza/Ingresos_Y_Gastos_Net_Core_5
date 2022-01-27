@@ -15,6 +15,7 @@ namespace ControlIgresosyGastos_Net_Core.Data
         }
 
         public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<IngresoGasto> IngresoGasto { get; set; }
 
     }
 }

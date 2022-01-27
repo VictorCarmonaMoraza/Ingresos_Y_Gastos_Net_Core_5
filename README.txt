@@ -1,4 +1,4 @@
-﻿8-Vistas y su accion de create y Update
+﻿9-Modelo IngresoGasto
 
-Hemos modificado las vistas de Create y Update con estilos de boostrap
+Hemos creado un modelo nuevo y hemos hecho la migracion para que cree la tabla en la base de datos
 
