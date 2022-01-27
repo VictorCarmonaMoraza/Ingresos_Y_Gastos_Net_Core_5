@@ -1,4 +1,5 @@
-﻿10-Controlador IngresoGasto
+﻿11-Agregar Estilos en Vistas Index-Create-Update
 
-Creamoe el nuevo controlador y se agregan las vistas de cada metodo
+
+Agregamos estilos a las vistas
 
