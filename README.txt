@@ -1,3 +1,2 @@
-﻿3-Creamos nuestro modelo
+﻿4-Agregar DBContext y String de Conexion
 
-Creamos nuestro modelo Categoria para despues poder refrenciarlo en el proyecto
