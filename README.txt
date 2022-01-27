@@ -1,3 +1,4 @@
-﻿1-Creacion del proyecto
+﻿2-Agregamos contenido a la vista Index
 
-Este proyecto sera para controlar los ingresos y gastos
+Añadimos contenido a la vista index y le agregamos alguna clase mas a nuestra vista.
+Introducimos mas contenido en el archivo css
