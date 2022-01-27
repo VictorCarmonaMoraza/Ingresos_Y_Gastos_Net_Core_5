@@ -1,5 +1,5 @@
-﻿6-Crear Controlador de Categoria
+﻿7-Vista y Action Index
 
-Hemos creado el controlador. Este controlador ha creado mediante scaffolding todas las vistas para
-todos los metodos que tenemos.
+Hemos modificado la vista donde se muestra el listado de categorias y le hemos dado estilos
+de boostrap para adecuarlas a nuestro gust.
 
